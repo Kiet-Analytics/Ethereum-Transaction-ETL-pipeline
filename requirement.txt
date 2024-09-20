@@ -1,0 +1,7 @@
+requests
+pandas
+sqlalchemy
+matplotlib
+numpy
+psycopg2
+subprocess
